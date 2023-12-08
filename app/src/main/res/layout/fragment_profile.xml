@@ -72,24 +72,13 @@
 
 
         <ImageButton
-            android:contentDescription="toko"
-            android:id="@+id/tokosaya"
-            android:layout_width="320dp"
-            android:layout_height="48dp"
-            android:layout_marginTop="60dp"
-            android:background="@drawable/btn_tokosaya"
-            app:layout_constraintTop_toTopOf="@+id/detail_profile"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"/>
-
-        <ImageButton
             android:contentDescription="pengaturan"
             android:id="@+id/pengaturan"
             android:layout_width="320dp"
             android:layout_height="48dp"
             android:layout_marginTop="60dp"
             android:background="@drawable/btn_pengaturan"
-            app:layout_constraintTop_toTopOf="@id/tokosaya"
+            app:layout_constraintTop_toTopOf="@id/detail_profile"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
 
