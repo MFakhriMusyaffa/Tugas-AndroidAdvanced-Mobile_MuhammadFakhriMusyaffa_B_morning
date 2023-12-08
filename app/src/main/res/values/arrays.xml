@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="image">
+        <item>@drawable/img_item1</item>
+        <item>@drawable/img_item2</item>
+        <item>@drawable/img_item3</item>
+        <item>@drawable/img_item4</item>
+        <item>@drawable/img_item5</item>
+        <item>@drawable/img_item6</item>
+        <item>@drawable/img_item7</item>
+    </integer-array>
+
+    <string-array name="judul">
+        <item>Sepatu Gunung</item>
+        <item>Kompor Portable</item>
+        <item>Kursi Lipat</item>
+        <item>Tenda Dome</item>
+        <item>Sleeping Bag</item>
+        <item>Tas Carrier</item>
+        <item>Terpal</item>
+    </string-array>
+
+    <string-array name="harga">
+        <item>Rp. 1.500.000</item>
+        <item>Rp. 400.000</item>
+        <item>Rp. 350.000</item>
+        <item>Rp. 2.500.000</item>
+        <item>Rp. 1.300.000</item>
+        <item>Rp. 1.900.000</item>
+        <item>Rp. 200.000</item>
+    </string-array>
+</resources>
